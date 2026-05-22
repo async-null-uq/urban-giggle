@@ -39,7 +39,7 @@ export default function Hero({ onSearch, totalResults }: HeroProps) {
       <div className="max-w-5xl mx-auto relative mb-12 select-none">
         <div className="aspect-[16/9] md:aspect-[21/9] w-full rounded-[2rem] overflow-hidden shadow-2xl relative group">
           <img 
-            src="https://your-dream-home-finder-nine.vercel.app/assets/hero-house-BA3YyBVA.jpg" 
+            src="https://i1-e.pinimg.com/736x/95/e7/f9/95e7f939e62dfa8cb48ed536dc87fdc9.jpg" 
             alt="Glade Modern Dream House" 
             className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-102"
             referrerPolicy="no-referrer"
