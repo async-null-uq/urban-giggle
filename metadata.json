@@ -1,0 +1,6 @@
+{
+  "name": "Glade.",
+  "description": "A refined, professional real estate Agency helping buyers, sellers, and investors make smarter real estate decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
